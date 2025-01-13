@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Django's Hii Abhishek command-line utility for administrative tasks."""
+"""Hello Django's Hii Abhishek command-line utility for administrative tasks."""
 import os
 import sys
 
